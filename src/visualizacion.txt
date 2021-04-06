@@ -1,0 +1,9 @@
+En este documento encontraremos un resumen de la investigación realizada, viendo como hemos limpiado el dataset de shark attacks para poder
+validar nuestras hipótesis, que son:
+1º Los hombres provocan más ataques que las mujeres
+2º Los surfistas provocan más ataques que los pescadores
+3º Hay más ataques en Florida que en Reunión ( posteriormente cambiada a Seychelles y finalmente a Hawaii por falta de datos)
+
+Para ello primero hemos limpiado todas las filas que contenian todos los valores nulos y posteriormente hemos filtrado para cada hipótesis:
+
+Para la primera hipótesis, como vemos en la imagen:
